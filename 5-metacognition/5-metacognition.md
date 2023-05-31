@@ -1,0 +1,1 @@
+Reflection and Metacognition. Be able to self-evaluate and self-reflect on your work, your learning, and your understanding or lack thereof. Identify where you struggle, where you excel, and how you know what you know.
