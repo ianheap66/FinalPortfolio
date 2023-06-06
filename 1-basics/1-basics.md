@@ -9,3 +9,5 @@ Design and Implementation of Basic Data Structures. Be able to design in theory 
 - Heaps
 - Hashes and Hash Maps
 
+hashFunctionNames.cpp
+hashFunction
