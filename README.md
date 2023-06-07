@@ -4,35 +4,35 @@
 
 3 pieces of evidence required for each. 4 pieces required for each if self-assigning an A or A-. 
 ### L1: Design and Implementation of Basic Data Structures
-- [ ] POE1
-- [ ] POE2
-- [ ] POE3
-- [ ] POE4*
+- [ ] Individual Exam 1
+- [ ] hashFunctionNames.cpp
+- [ ] HW1
+- [ ] HW2
 
 ### L2: Applications of Basic Data Structures
 
-- [ ] POE1
-- [ ] POE2
-- [ ] POE3
-- [ ] POE4*
+- [ ] HW4
+- [ ] HW2
+- [ ] Individual Exam 1
+- [ ] Individual Exam 2
 
 ### L3: Reading and Writing Computationally
 
-- [ ] POE1
-- [ ] POE2
-- [ ] POE3
-- [ ] POE4*
+- [ ] HW4
+- [ ] HW3
+- [ ] Perusall Questions 
+- [ ] vector.cpp
 
 ### L4: Failure
 
-- [ ] POE1
-- [ ] POE2
-- [ ] POE3
-- [ ] POE4*
+- [ ] Group Exam 1 with Revision
+- [ ] HW3
+- [ ] Perusall Questions
+- [ ] Self-Reflection week 5
 
 ### L5: Reflection and Metacognition
 
-- [ ] POE1
-- [ ] POE2
-- [ ] POE3
-- [ ] POE4*
+- [ ] Group Exam 1 with Revisions
+- [ ] Question in Individual Exam 1
+- [ ] Self-Reflection Week 5
+- [ ] Self-Reflection Week 2
