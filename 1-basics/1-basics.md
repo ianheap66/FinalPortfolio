@@ -8,6 +8,3 @@ Design and Implementation of Basic Data Structures. Be able to design in theory 
 - Red-Black Trees
 - Heaps
 - Hashes and Hash Maps
-
-hashFunctionNames.cpp
-hashFunction
